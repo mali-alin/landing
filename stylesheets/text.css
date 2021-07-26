@@ -9,6 +9,11 @@ body {
   margin-bottom: 18px;
 }
 
+.text-for-form {
+  font-size: 25px;
+  font-weight: bold;
+}
+
 .title-medium {
   font-size: 36px;
   font-weight: bold;

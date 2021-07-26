@@ -7,13 +7,13 @@
   background-attachment: scroll, fixed;
   background-position: 0 0%, center top;
   color: #fff;
-  padding-top: 210px;
-  padding-bottom: 210px;
   margin-top: 60px;
 }
 
 .dark-background {
-  background-color: rgba(0, 0, 0, 0.2);
+  padding-top: 210px;
+  padding-bottom: 210px;
+  background-color: rgba(0, 0, 0, 0.3);
 }
 
 .intro .text-lead {
